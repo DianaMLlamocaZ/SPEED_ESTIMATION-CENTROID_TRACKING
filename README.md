@@ -1,4 +1,4 @@
-# Centroid Tracking y Speed Estimation
+# Speed Estimation y Centroid Tracking
 
 ## Descripción
 - Este repositorio contiene el desarrollo de un sistema que estima la velocidad de vehículos utilizando *Centroid Tracking* para el seguimiento de objetos, y el modelo Yolov8n para la detección.
