@@ -7,7 +7,7 @@
 
 ## Visualización
 <div align="center">
-    <img src="./Test/SpeedEstimationFPS.gif">
+    <img src="./TEST/SpeedEstimationFPS.gif">
 </div>
 
 ## Archivos
